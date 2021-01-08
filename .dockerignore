@@ -1,0 +1,10 @@
+node_modules
+.dockerignore
+Dockerfile
+*-debug.log
+*-error.log
+.git
+.hg
+.svn
+puppeteer/**/*
+!puppeteer/examples/*
